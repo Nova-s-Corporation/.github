@@ -49,7 +49,6 @@ Our approach is based on transforming ideas into fully functional, production-re
 ## 📫 Contact
 
 - 🌐 Web: https://novas-corporation.vercel.app/  
-- 📧 Email: unaisanchidrian@gmail.com
   
 ---
 
